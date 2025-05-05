@@ -25,4 +25,4 @@ python run_task1.py
 - Average out-degree: 3.6857
 - Diameter: 11
 
-![Project Image](https://ibb.co/gZnrNr6c)
+![Histogram Image](https://i.ibb.co/v4tcpcDM/Whats-App-Image-2025-04-27-at-20-58-04-8327f3be.jpg)
