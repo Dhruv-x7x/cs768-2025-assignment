@@ -15,6 +15,11 @@ cd cs768-2025-assignment
 python run_task1.py
 ```
 
+#### Run Task 2
+```bash
+python evaluation.py
+```
+
 ---
 
 ### Task 1 Results
