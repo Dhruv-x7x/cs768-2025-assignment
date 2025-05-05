@@ -14,3 +14,15 @@ cd cs768-2025-assignment
 ```bash
 python run_task1.py
 ```
+
+---
+
+### Task 1 Results
+
+- Number of edges: 24123
+- Number of isolated nodes: 1152
+- Average in-degree: 3.6857
+- Average out-degree: 3.6857
+- Diameter: 11
+
+![Project Image](https://ibb.co/gZnrNr6c)
