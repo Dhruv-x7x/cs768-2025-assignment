@@ -31,3 +31,8 @@ python evaluation.py
 - Diameter: 11
 
 ![Histogram Image](https://i.ibb.co/v4tcpcDM/Whats-App-Image-2025-04-27-at-20-58-04-8327f3be.jpg)
+
+```plaintext
+validate_task2.ipynb
+```
+contains research for task 2.
